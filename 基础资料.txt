@@ -1,3 +1,10 @@
 免费SSL证书
 
 https://bbs.aliyun.com/read/573933.html?spm=5176.10695662.1996646101.searchclickresult.75aa4e47cNLwQN
+
+
+git初始化
+http://blog.csdn.net/u010246789/article/details/51262891
+
+小程序前端模板
+http://www.aspku.com/qita/weixin/list2.html
